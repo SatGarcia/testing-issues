@@ -1,0 +1,6 @@
+- Potatoes
+- Tofu
+- Green Beans
+- Applesauce
+
+[Add New] [Delete]
