@@ -1,4 +1,4 @@
-package org.sandiego.sat;
+package edu.sandiego.sat;
 
 public class Hello {
     public static void main(String[] args) {
