@@ -21,5 +21,7 @@ public class Hello {
         }
 
         System.out.println("You entered: " + enteredNum);
+
+        System.out.println("Item has been added to the database!");
     }
 }
